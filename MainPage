@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta></meta>
+<title>Undercover</title>
+</head>
+
+<body>
+
+<h1 align="center">Undercover!</h1>
+<br>
+<div class="events">
+<h3>Concerts and Events</h3>
+<ul id="eventID">
+</ul>
+</div>
+
+<br>
+
+<div class = "hangouts">
+<h3>Hangouts!</h3>
+<ul id="hangID">
+</ul>
+<br>
+</div>
+
+<div class="tutorial">
+<h3>Tutorials!</h3>
+</div>
+</body>
+
+</html>
