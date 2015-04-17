@@ -1,0 +1,20 @@
+var users;
+var passwords;
+var events;
+var locales;
+
+function saveusers(){
+    users.push(document.getElementsByTagName('user'));
+}
+
+function savepasswords(){
+    users.push(document.getElementsByTagName('pass'));
+}
+
+function saveevents(){
+    users.push(document.getElementsByTagName('event'));
+}
+
+function savelocales(){
+    users.push(document.getElementsByTagName('locales'));
+}
